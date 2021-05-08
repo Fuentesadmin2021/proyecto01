@@ -11,9 +11,10 @@ def es_primo(x):
 
 num=int(input())
 
-
 if es_primo(num):
     print('Numero primo')
 else:
     print('Este numero no es primo')
+
+print('FIN')
     
